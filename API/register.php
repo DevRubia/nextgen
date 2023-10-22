@@ -11,15 +11,6 @@ $formatTime="h:i:s A";
 $currentDate = date($formatDate);
 
 
-require './phpmailer/includes/PHPMailer.php';
-require './phpmailer/includes/SMTP.php';
-require './phpmailer/includes/Exception.php';
-
-//Create instance of PHPMailer
-use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\SMTP;
-use PHPMailer\PHPMailer\Exception;
-
 
 if(isset($_POST['save-contact']))
 {
