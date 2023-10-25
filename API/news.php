@@ -200,7 +200,7 @@
             }
             </script>
         </div>
-        <a href="http://localhost:4200/#/charts" class="back-button">Go to Charts</a>
+        <a href="http://localhost:4200/#/charts" class="back-button">Go to Dashboard</a>
     </div>
 </body>
 </html>
