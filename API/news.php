@@ -175,7 +175,7 @@
 
 </div>
 <div class="spacer">
-   <a href="http://localhost:4200/#/charts" class="back-button">Back</a>
+   <a href="https://24hrfxtradingorg.co.ke/WallStreet/#/charts" class="back-button">Back</a>
 
    <h3 class="blue-text">NextGen top stories</h3>
     
